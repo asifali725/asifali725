@@ -58,4 +58,4 @@ I'm a passionate **Full Stack Developer** specializing in **React.js, Node.js, a
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AsifAliTuri-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/asif-ali-224886317)  
-📧 Email: your-email@example.com
+📧 Email: your-asifali030659@example.com

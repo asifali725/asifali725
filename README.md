@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asif Ali Turi
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Portfolio)
+![Profile Banner](https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&w=1200&q=80)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AsifAliTuri-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/asif-ali-224886317)
 [![GitHub](https://img.shields.io/badge/GitHub-AsifAliTuri-black?style=flat-square&logo=github)](https://github.com/asifali725)
@@ -8,7 +8,8 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a passionate **Full Stack Developer** specializing in **React.js, Node.js, and PHP**. I love building **modern, responsive web applications** and **innovative software solutions**.  
+I'm a passionate **Full Stack Developer** specializing in **React.js, Node.js, and PHP**.  
+I build **modern, responsive web applications** and **innovative software solutions**.  
 
 ---
 
@@ -25,20 +26,20 @@ I'm a passionate **Full Stack Developer** specializing in **React.js, Node.js, a
 ## 📂 Featured Projects
 
 ### 1. **ConstructioNET**
-![ConstructioNET](https://via.placeholder.com/600x300.png?text=ConstructioNET)
-- Platform connecting clients with construction companies.
-- Features: project management, client communication, and authentication.
+![ConstructioNET](https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=800&q=80)  
+- Platform connecting clients with construction companies.  
+- Features: project management, client communication, authentication.
 
 ### 2. **Medical Store Management System**
-![Medical Store](https://via.placeholder.com/600x300.png?text=Medical+Store+Management)
+![Medical Store](https://images.unsplash.com/photo-1580281657521-1e36bffcd7c3?auto=format&fit=crop&w=800&q=80)  
 - Console application in C++ for inventory, sales, and employee management.
 
 ### 3. **Ecommerce Website**
-![Ecommerce](https://via.placeholder.com/600x300.png?text=Ecommerce+Website)
+![Ecommerce](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=80)  
 - Online shopping platform with cart and payment integration.
 
 ### 4. **Visual SafeSource**
-![Visual SafeSource](https://via.placeholder.com/600x300.png?text=Visual+SafeSource)
+![Visual SafeSource](https://images.unsplash.com/photo-1612832021047-5fc6c7e88e96?auto=format&fit=crop&w=800&q=80)  
 - Secure content management system with access control, versioning, and encryption.
 
 ---
@@ -58,4 +59,8 @@ I'm a passionate **Full Stack Developer** specializing in **React.js, Node.js, a
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AsifAliTuri-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/asif-ali-224886317)  
-📧 Email: your-asifali030659@example.com
+📧 Email: asifali030659@example.com
+
+---
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
